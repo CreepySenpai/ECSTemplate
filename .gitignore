@@ -1,0 +1,10 @@
+.vscode
+.cmake
+CMakeFiles
+Testing
+CMakeCache.txt
+Makefile
+*.tcl
+*.cmake
+*.exe
+must-done

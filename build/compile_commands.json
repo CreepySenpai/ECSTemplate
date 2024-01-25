@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/WorkSpace/Game Project/C++ Games/LearnECS/build",
+  "command": "D:\\Enviroments\\mingw32_msvcrt\\bin\\g++.exe  @CMakeFiles/LearnECS.dir/includes_CXX.rsp -Wall  -g -std=gnu++23 -o CMakeFiles\\LearnECS.dir\\main.cpp.obj -c \"D:\\WorkSpace\\Game Project\\C++ Games\\LearnECS\\main.cpp\"",
+  "file": "D:/WorkSpace/Game Project/C++ Games/LearnECS/main.cpp",
+  "output": "CMakeFiles/LearnECS.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/WorkSpace/Game Project/C++ Games/LearnECS/build",
+  "command": "D:\\Enviroments\\mingw32_msvcrt\\bin\\g++.exe  @CMakeFiles/LearnECS.dir/includes_CXX.rsp -Wall  -g -std=gnu++23 -o CMakeFiles\\LearnECS.dir\\src\\Creepy\\Entity.cpp.obj -c \"D:\\WorkSpace\\Game Project\\C++ Games\\LearnECS\\src\\Creepy\\Entity.cpp\"",
+  "file": "D:/WorkSpace/Game Project/C++ Games/LearnECS/src/Creepy/Entity.cpp",
+  "output": "CMakeFiles/LearnECS.dir/src/Creepy/Entity.cpp.obj"
+},
+{
+  "directory": "D:/WorkSpace/Game Project/C++ Games/LearnECS/build",
+  "command": "D:\\Enviroments\\mingw32_msvcrt\\bin\\g++.exe  @CMakeFiles/LearnECS.dir/includes_CXX.rsp -Wall  -g -std=gnu++23 -o CMakeFiles\\LearnECS.dir\\src\\Creepy\\EntityManager.cpp.obj -c \"D:\\WorkSpace\\Game Project\\C++ Games\\LearnECS\\src\\Creepy\\EntityManager.cpp\"",
+  "file": "D:/WorkSpace/Game Project/C++ Games/LearnECS/src/Creepy/EntityManager.cpp",
+  "output": "CMakeFiles/LearnECS.dir/src/Creepy/EntityManager.cpp.obj"
+},
+{
+  "directory": "D:/WorkSpace/Game Project/C++ Games/LearnECS/build",
+  "command": "D:\\Enviroments\\mingw32_msvcrt\\bin\\g++.exe  @CMakeFiles/LearnECS.dir/includes_CXX.rsp -Wall  -g -std=gnu++23 -o CMakeFiles\\LearnECS.dir\\src\\Creepy\\Game.cpp.obj -c \"D:\\WorkSpace\\Game Project\\C++ Games\\LearnECS\\src\\Creepy\\Game.cpp\"",
+  "file": "D:/WorkSpace/Game Project/C++ Games/LearnECS/src/Creepy/Game.cpp",
+  "output": "CMakeFiles/LearnECS.dir/src/Creepy/Game.cpp.obj"
+}
+]
